@@ -3,7 +3,7 @@ const settings = {
   author: 'JEPHTER TECH',
   botName: "☞ ᴊꜰx ᴍᴅ-xᴠ2",
   botOwner: 'SIMEON', // Your name
-  ownerNumber: '2347046970033', // No + symbol
+  ownerNumber: '2347054389353', // No + symbol
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "private",
   description: "ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴡʜᴀᴛꜱᴀᴘᴘ ᴍᴅ ʙᴏᴛ ʙʏ ᴊᴇᴘʜᴛᴇʀ ᴛᴇᴄʜ. ᴄʜᴀɴɴᴇʟ: https://whatsapp.com/channel/0029VbAxkJl0lwgqAOojKI3R",
